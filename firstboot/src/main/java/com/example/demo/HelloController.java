@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 // 추가 테스트입니다. 
-
+// 추가 테스트2입니다.
 @Controller
 public class HelloController {
 @RequestMapping("/helloboot")
